@@ -22,7 +22,7 @@ def classify(img_file):
 
 
 import os
-path = 'D:/MasterClass/Artificial_Intelligence/Day13/Dataset/val/TWO'
+path = 'D:/pavan/projects/Dataset/val/TWO'
 files = []
 # r=root, d=directories, f = files
 for r, d, f in os.walk(path):
